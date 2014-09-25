@@ -38,3 +38,15 @@ class Customer(object):
         return self.balance
 ```
         
+
+Blog Post
+===========
+http://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/
+
+
+Book
+===========
+
+Think Python: How to Think Like a Computer Scientist
+
+http://www.greenteapress.com/thinkpython/thinkpython.pdf
