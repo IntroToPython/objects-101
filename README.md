@@ -50,3 +50,9 @@ Book
 Think Python: How to Think Like a Computer Scientist
 
 http://www.greenteapress.com/thinkpython/thinkpython.pdf
+
+
+Questions?
+==========
+
+Email: anthony@blar.do
