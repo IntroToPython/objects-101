@@ -11,7 +11,7 @@ Exercise 2.3
 
 #Exercise 2.4 - number 1
 radius = 5
-vol = (4/3) * math.pi * math.pow(radius, 3)
+vol = (4.0/3) * math.pi * math.pow(radius, 3)
 print 'Volume: ', vol
 
 #Exercise 2.4 - number 2
